@@ -1,0 +1,9 @@
+{
+  "caller_name": "Michael Chen",
+  "caller_email": "michael.chen@startup.io",
+  "caller_phone": "+1-555-123-4567",
+  "call_type": "callback_request",
+  "message": "Hi Ian, I saw your work on Laravel and the TALL stack. We're building a real-time trading platform and need an expert developer. Our current system is struggling with high-frequency data processing. Can you call me back to discuss this urgent project? We have a tight deadline and substantial budget.",
+  "source": "api_test",
+  "preferred_time": "2026-01-03T15:00:00Z"
+}

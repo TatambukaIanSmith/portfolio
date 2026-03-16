@@ -1,0 +1,7 @@
+{
+  "name": "Elite Digital Portfolio",
+  "description": "An Apple-inspired, high-end developer portfolio featuring Bento grids, interactive workflows, and premium micro-interactions using React, Framer Motion, and Tailwind CSS.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}

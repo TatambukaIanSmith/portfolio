@@ -1,0 +1,9 @@
+{
+  "name": "Sarah Johnson",
+  "email": "sarah.johnson@techstartup.com",
+  "message": "Hi Ian! I found your portfolio through a colleague's recommendation. We're a growing fintech startup looking to rebuild our legacy system with modern Laravel architecture. Our current system handles about 10,000 transactions daily, but we're experiencing performance bottlenecks and security concerns. We need someone with your expertise in full-stack development to help us scale. The project involves API development, database optimization, and implementing real-time features. We're particularly interested in your experience with the TALL stack. Could we schedule a call to discuss our requirements in detail?",
+  "type": "project",
+  "projectType": "Fintech Platform Rebuild",
+  "budget": "$25,000 - $50,000",
+  "source": "api_test"
+}
